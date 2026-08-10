@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="320" viewBox="0 0 600 320" role="img" aria-labelledby="title desc">
+  <title id="title">Todaktodak 프로젝트 카드</title>
+  <desc id="desc">감정 위로 AI 서비스, 6인 팀 AI ML 백엔드 기여</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101827"/>
+      <stop offset="100%" stop-color="#301b27"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="598" height="318" rx="18" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
+  <rect x="0" y="0" width="600" height="6" rx="3" fill="url(#accent)"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">
+    <text x="32" y="42" fill="#fb7185" font-size="13" font-weight="700" letter-spacing="1.2">GENERATIVE AI · TEAM OF 6</text>
+    <text x="32" y="80" fill="#f0f6fc" font-size="29" font-weight="750">Todaktodak</text>
+    <text x="32" y="111" fill="#c9d1d9" font-size="16">일기에서 4컷 만화·음악·감정 분석을 생성하는</text>
+    <text x="32" y="135" fill="#c9d1d9" font-size="16">감정 위로 AI 서비스</text>
+    <rect x="32" y="158" width="82" height="28" rx="14" fill="#4c0519" stroke="#f43f5e"/>
+    <text x="73" y="177" fill="#fecdd3" font-size="13" font-weight="700" text-anchor="middle">담당 역할</text>
+    <text x="32" y="214" fill="#f0f6fc" font-size="16" font-weight="650">AI/ML·백엔드 기여</text>
+    <text x="32" y="239" fill="#8b949e" font-size="15">GPT 감정 분석, LoRA 이미지 생성, AI↔백엔드 연동</text>
+    <line x1="32" y1="260" x2="568" y2="260" stroke="#30363d"/>
+    <text x="32" y="289" fill="#fb923c" font-size="13" font-weight="650">GPT API · Stable Diffusion LoRA · Python · Amazon S3</text>
+    <text x="568" y="289" fill="#8b949e" font-size="13" text-anchor="end">프로젝트 보기 →</text>
+  </g>
+</svg>

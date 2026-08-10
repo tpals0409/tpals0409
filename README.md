@@ -38,23 +38,19 @@ TypeScript·Python 기반의 AI 서비스, 로컬 지식 시스템, Kubernetes �
 
 </div>
 
-## GitHub 활동 요약
+## 프로젝트 대시보드
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tpals0409&theme=tokyonight" alt="GitHub 기여 활동 요약" />
+<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="./assets/project-cards/algosu.svg" alt="AlgoSu 프로젝트 — 1인 기획·설계·개발·배포·운영" /></a>
+<a href="https://github.com/Team-PinLog/infra"><img width="49%" src="./assets/project-cards/pinlog.svg" alt="PinLog 프로젝트 — 인프라·DevOps 리드" /></a>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tpals0409&theme=tokyonight" alt="언어별 저장소" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tpals0409&theme=tokyonight" alt="언어별 커밋" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tpals0409&theme=tokyonight" alt="GitHub 통계" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tpals0409&theme=tokyonight&utcOffset=9" alt="시간대별 커밋 활동" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=tpals0409&theme=github-dark-blue&hide_border=true" alt="GitHub 연속 기여 기록" />
+<a href="https://portfolio-tpals0409s-projects.vercel.app"><img width="49%" src="./assets/project-cards/graph-rag.svg" alt="Graph RAG Second Brain — 지식 구조·검색·검증 워크플로우 설계 및 구현" /></a>
+<a href="https://github.com/kakaotech-19"><img width="49%" src="./assets/project-cards/todaktodak.svg" alt="Todaktodak 프로젝트 — AI/ML·백엔드 기여" /></a>
 
 </div>
 
-## 기여 활동
+## GitHub 활동
 
 <div align="center">
 
@@ -62,21 +58,10 @@ TypeScript·Python 기반의 AI 서비스, 로컬 지식 시스템, Kubernetes �
 
 </div>
 
-## 주요 프로젝트
-
-| 프로젝트 | 주요 내용 | 중심 기술 |
-|---|---|---|
-| [**AlgoSu**](https://github.com/tpals0409/AlgoSu) | 코드 제출부터 AI 분석까지 자동화한 알고리즘 스터디 관리 플랫폼 | TypeScript · Python |
-| [**Synapse**](https://github.com/tpals0409/Synapse) | 과거의 생각을 현재 맥락에 다시 연결하는 로컬 기반 Memory-Native AI | TypeScript |
-| [**PinLog Infra**](https://github.com/Team-PinLog/infra) | k3s·Argo CD 기반 배포와 관측·보안·백업을 다루는 운영 인프라 | Python · Kubernetes |
-| [**Pico Agent**](https://github.com/Team-PinLog/pico-agent) | 출처와 관계를 기반으로 운영 지식을 저장·검색하는 지식 시스템 | Python |
-| [**In-Seoul**](https://github.com/tpals0409/In-Seoul) | 서울 아파트 구매 가능 시점을 시뮬레이션하는 Local-First 웹앱 | TypeScript |
-| [**Portfolio**](https://github.com/tpals0409/portfolio) | 프로젝트와 경험을 담은 스크롤 기반 인터랙티브 포트폴리오 | TypeScript |
-
 ---
 
 <div align="center">
 
-<sub>활동 카드는 공개된 GitHub 기록을 바탕으로 자동 갱신됩니다.</sub>
+<sub>프로젝트 카드를 선택하면 저장소 또는 상세 포트폴리오로 이동합니다.</sub>
 
 </div>
