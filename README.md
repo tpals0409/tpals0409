@@ -58,7 +58,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tpals0409&theme=tokyo-night&hide_border=true" alt="GitHub 기여 활동 그래프" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-contribution-grid-snake.svg" alt="GitHub 기여 활동을 따라 움직이는 Snake 애니메이션" />
+</picture>
 
 </div>
 
