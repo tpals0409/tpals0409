@@ -54,18 +54,6 @@
 
 </div>
 
-## GitHub 활동
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-activity-dashboard-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-activity-dashboard.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-activity-dashboard.svg" alt="최근 12개월 GitHub 활동 대시보드" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
