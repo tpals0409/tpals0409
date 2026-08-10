@@ -42,8 +42,8 @@ TypeScript·Python 기반의 AI 서비스, 로컬 지식 시스템, Kubernetes �
 
 <div align="center">
 
-<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="./assets/project-cards/algosu-official-logo.svg" alt="AlgoSu 프로젝트 — 1인 기획·설계·개발·배포·운영" /></a>
-<a href="https://github.com/Team-PinLog/infra"><img width="49%" src="./assets/project-cards/pinlog-official-logo.svg" alt="PinLog 프로젝트 — 인프라·DevOps 리드" /></a>
+<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="./assets/project-cards/algosu-official-embedded.svg" alt="AlgoSu 프로젝트 — 1인 기획·설계·개발·배포·운영" /></a>
+<a href="https://github.com/Team-PinLog/infra"><img width="49%" src="./assets/project-cards/pinlog-official-embedded.svg" alt="PinLog 프로젝트 — 인프라·DevOps 리드" /></a>
 
 <a href="https://portfolio-tpals0409s-projects.vercel.app"><img width="49%" src="./assets/project-cards/graph-rag-neumorphism.svg" alt="Graph RAG Second Brain — 지식 구조·검색·검증 워크플로우 설계 및 구현" /></a>
 <a href="https://github.com/kakaotech-19"><img width="49%" src="./assets/project-cards/todaktodak-neumorphism.svg" alt="Todaktodak 프로젝트 — AI/ML·백엔드 기여" /></a>
