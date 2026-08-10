@@ -42,11 +42,11 @@ TypeScript·Python 기반의 AI 서비스, 로컬 지식 시스템, Kubernetes �
 
 <div align="center">
 
-<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="./assets/project-cards/algosu.svg" alt="AlgoSu 프로젝트 — 1인 기획·설계·개발·배포·운영" /></a>
-<a href="https://github.com/Team-PinLog/infra"><img width="49%" src="./assets/project-cards/pinlog.svg" alt="PinLog 프로젝트 — 인프라·DevOps 리드" /></a>
+<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="./assets/project-cards/algosu.svg?v=2" alt="AlgoSu 프로젝트 — 1인 기획·설계·개발·배포·운영" /></a>
+<a href="https://github.com/Team-PinLog/infra"><img width="49%" src="./assets/project-cards/pinlog.svg?v=2" alt="PinLog 프로젝트 — 인프라·DevOps 리드" /></a>
 
-<a href="https://portfolio-tpals0409s-projects.vercel.app"><img width="49%" src="./assets/project-cards/graph-rag.svg" alt="Graph RAG Second Brain — 지식 구조·검색·검증 워크플로우 설계 및 구현" /></a>
-<a href="https://github.com/kakaotech-19"><img width="49%" src="./assets/project-cards/todaktodak.svg" alt="Todaktodak 프로젝트 — AI/ML·백엔드 기여" /></a>
+<a href="https://portfolio-tpals0409s-projects.vercel.app"><img width="49%" src="./assets/project-cards/graph-rag.svg?v=2" alt="Graph RAG Second Brain — 지식 구조·검색·검증 워크플로우 설계 및 구현" /></a>
+<a href="https://github.com/kakaotech-19"><img width="49%" src="./assets/project-cards/todaktodak.svg?v=2" alt="Todaktodak 프로젝트 — AI/ML·백엔드 기여" /></a>
 
 </div>
 
