@@ -3,9 +3,7 @@
 
 # 김세민 | Leo.Kim
 
-**AI 서비스와 운영 가능한 플랫폼을 함께 만드는 개발자입니다.**
-
-TypeScript·Python 기반의 AI 서비스, 로컬 지식 시스템, Kubernetes 운영 자동화에 관심이 있습니다.
+**사용자가 실제로 쓰는 AI 서비스를 만들고 운영하는 개발자입니다.**
 
 [![포트폴리오](https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tpals0409s-projects.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-tpals0409-181717?style=for-the-badge&logo=github)](https://github.com/tpals0409)
