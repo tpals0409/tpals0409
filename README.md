@@ -1,20 +1,22 @@
 <div align="center">
-<!-- GitHub profile dashboard -->
+<!-- GitHub 프로필 대시보드 -->
 
-# Leo.Kim | 김세민
+# 김세민 | Leo.Kim
 
-**AI 서비스를 실제 제품과 운영 환경으로 연결하는 개발자**
+**AI 서비스와 운영 가능한 플랫폼을 함께 만드는 개발자입니다.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tpals0409s-projects.vercel.app)
+TypeScript·Python 기반의 AI 서비스, 로컬 지식 시스템, Kubernetes 운영 자동화에 관심이 있습니다.
+
+[![포트폴리오](https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tpals0409s-projects.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-tpals0409-181717?style=for-the-badge&logo=github)](https://github.com/tpals0409)
 
 </div>
 
-## Tech Dashboard
+## 기술 스택
 
 <div align="center">
 
-### Languages & Frameworks
+### 언어·프레임워크
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -24,7 +26,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Platform & Operations
+### 플랫폼·운영
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -36,33 +38,33 @@
 
 </div>
 
-## GitHub Dashboard
+## GitHub 활동 요약
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tpals0409&theme=tokyonight" alt="GitHub contribution summary" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tpals0409&theme=tokyonight" alt="GitHub 기여 활동 요약" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tpals0409&theme=tokyonight" alt="Repositories by language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tpals0409&theme=tokyonight" alt="Commits by language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tpals0409&theme=tokyonight" alt="언어별 저장소" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tpals0409&theme=tokyonight" alt="언어별 커밋" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tpals0409&theme=tokyonight" alt="GitHub stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tpals0409&theme=tokyonight&utcOffset=9" alt="Commit activity by time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tpals0409&theme=tokyonight" alt="GitHub 통계" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tpals0409&theme=tokyonight&utcOffset=9" alt="시간대별 커밋 활동" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=tpals0409&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=tpals0409&theme=tokyonight&hide_border=true" alt="GitHub 연속 기여 기록" />
 
 </div>
 
-## Contribution Activity
+## 기여 활동
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tpals0409&theme=tokyo-night&hide_border=true" alt="Contribution activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tpals0409&theme=tokyo-night&hide_border=true" alt="GitHub 기여 활동 그래프" />
 
 </div>
 
-## Featured Work
+## 주요 프로젝트
 
-| Project | What it does | Main language |
+| 프로젝트 | 주요 내용 | 중심 기술 |
 |---|---|---|
 | [**AlgoSu**](https://github.com/tpals0409/AlgoSu) | 코드 제출부터 AI 분석까지 자동화한 알고리즘 스터디 관리 플랫폼 | TypeScript · Python |
 | [**Synapse**](https://github.com/tpals0409/Synapse) | 과거의 생각을 현재 맥락에 다시 연결하는 로컬 기반 Memory-Native AI | TypeScript |
@@ -75,6 +77,6 @@
 
 <div align="center">
 
-<sub>Dashboard cards are generated from public GitHub activity and refresh automatically.</sub>
+<sub>활동 카드는 공개된 GitHub 기록을 바탕으로 자동 갱신됩니다.</sub>
 
 </div>
