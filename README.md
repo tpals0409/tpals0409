@@ -59,9 +59,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-contribution-grid-snake.svg" alt="GitHub 기여 활동을 따라 움직이는 Snake 애니메이션" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-activity-dashboard-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-activity-dashboard.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/tpals0409/tpals0409/output/github-activity-dashboard.svg" alt="최근 12개월 GitHub 활동 대시보드" />
 </picture>
 
 </div>
