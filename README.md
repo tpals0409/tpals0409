@@ -50,7 +50,7 @@ TypeScript·Python 기반의 AI 서비스, 로컬 지식 시스템, Kubernetes �
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tpals0409&theme=tokyonight" alt="GitHub 통계" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tpals0409&theme=tokyonight&utcOffset=9" alt="시간대별 커밋 활동" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=tpals0409&theme=tokyonight&hide_border=true" alt="GitHub 연속 기여 기록" />
+<img width="70%" src="https://streak-stats.demolab.com?user=tpals0409&theme=github-dark-blue&hide_border=true" alt="GitHub 연속 기여 기록" />
 
 </div>
 
