@@ -7,7 +7,7 @@
 ## 대표 프로젝트
 
 <a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="assets/project-cards/algosu-profile.svg" alt="AlgoSu — 알고리즘 스터디 관리 서비스. 기획부터 개발·배포·운영·유지보수까지 1인 수행" /></a>
-<a href="https://github.com/tpals0409/FINCH"><img width="49%" src="assets/project-cards/finch-profile.svg" alt="FINCH — 포트폴리오 기반 AI 모의투자. 팀 프로젝트에서 개인 ver2로 확장하며 계산 엔진과 AI 설명을 분리" /></a>
+<a href="https://github.com/tpals0409/FINCH"><img width="49%" src="assets/project-cards/finch-profile.svg" alt="FINCH — 포트폴리오 기반 AI 모의투자. 팀 프로젝트로 개발한 서비스. 계산 엔진과 AI 설명을 분리" /></a>
 
 <a href="https://github.com/tpals0409/Janus"><img width="49%" src="assets/project-cards/janus-profile.svg" alt="Janus — 로컬 우선 에이전트 개발 환경. Task 중심으로 작업·검증·리뷰·커밋을 연결하는 1인 개발 프로젝트" /></a>
 <a href="https://github.com/Team-PinLog/infra"><img width="49%" src="assets/project-cards/pinlog-profile.svg" alt="PinLog Infra — 팀 프로젝트의 인프라·DevOps 리드. 단일 서버의 GitOps 배포·관측·AI 운영 알림과 복구 설계" /></a>
