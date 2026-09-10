@@ -23,14 +23,55 @@
 - **결과는 코드와 실행으로 확인합니다.** 변경 diff, 테스트와 빌드를 검토하고, 실기기 QA와 운영 상태로 실제 동작을 확인합니다.
 - **시행착오를 다음 작업에 반영합니다.** 설계 결정과 문제 해결 과정을 기록하고, 반복되는 오류는 검증 절차와 자동화로 보완합니다.
 
-## 프로젝트에서 사용하는 기술
+## 기술 스택
 
-| 영역 | 주요 기술 | 적용한 프로젝트 |
-| --- | --- | --- |
-| 웹·데스크톱 | TypeScript · React · Next.js · Electron | AlgoSu · FINCH · Janus |
-| 백엔드 | NestJS · Python/FastAPI · Kotlin/Spring Boot | AlgoSu · FINCH · Janus |
-| AI·데이터 | LLM API · AI Agent · MLX · PostgreSQL/pgvector · Redis · SQLite | AlgoSu · FINCH · Janus |
-| 배포·운영 | Kubernetes/k3s · GitHub Actions · Argo CD · Prometheus · Grafana · Loki | AlgoSu · FINCH · PinLog Infra |
+### 언어
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" title="Kotlin" />&nbsp;
+</p>
+
+<sub>TypeScript · Python · Kotlin</sub>
+
+### 웹·백엔드·데스크톱
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/electron/electron-original.svg" width="42" height="42" alt="Electron" title="Electron" />&nbsp;
+</p>
+
+<sub>React · Next.js · NestJS · Spring Boot · FastAPI · Electron</sub>
+
+### AI·데이터
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" title="Redis" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite" title="SQLite" />&nbsp;
+</p>
+
+<sub>PostgreSQL · Redis · SQLite</sub>
+
+LLM API · AI Agent · MLX · pgvector를 활용해 AI 기능과 개발 도구를 만듭니다.
+
+### 배포·운영
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions" title="GitHub Actions" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/argocd/argocd-original.svg" width="42" height="42" alt="Argo CD" title="Argo CD" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prometheus/prometheus-original.svg" width="42" height="42" alt="Prometheus" title="Prometheus" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/grafana/grafana-original.svg" width="42" height="42" alt="Grafana" title="Grafana" />&nbsp;
+</p>
+
+<sub>Docker · Kubernetes · GitHub Actions · Argo CD · Prometheus · Grafana</sub>
 
 ## 개발 기록
 
