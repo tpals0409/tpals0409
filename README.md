@@ -58,8 +58,6 @@
 
 <sub>PostgreSQL · Redis · SQLite</sub>
 
-LLM API · AI Agent · MLX · pgvector를 활용해 AI 기능과 개발 도구를 만듭니다.
-
 ### 배포·운영
 
 <p>
