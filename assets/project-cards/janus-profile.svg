@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="330" viewBox="0 0 600 330" role="img" aria-labelledby="title desc">
+  <title id="title">Janus</title>
+  <desc id="desc">J Janus 로컬 우선 에이전트 개발 환경 1인 개발 에이전트의 작업과 변경 내용을 확인하고 검증·리뷰·커밋까지 한 흐름으로 연결합니다. 제품 방향과 설계 AI와 일하는 개발 환경을 직접 구현 Task 중심 작업 관리와 제한된 로컬 자원 배분 Electron · React · FastAPI · SQLite · MLX ↗</desc>
+  <defs>
+    <filter id="raised" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="-6" dy="-6" stdDeviation="6" flood-color="#ffffff" flood-opacity="0.92" /><feDropShadow dx="7" dy="7" stdDeviation="7" flood-color="#aeb7c4" flood-opacity="0.58" /></filter>
+    <filter id="raisedSmall" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="-3" dy="-3" stdDeviation="3" flood-color="#ffffff" flood-opacity="0.9" /><feDropShadow dx="4" dy="4" stdDeviation="4" flood-color="#b6bec9" flood-opacity="0.52" /></filter>
+  </defs>
+  <rect width="600" height="330" rx="28" fill="#e8ecf1" />
+  <rect x="19" y="19" width="562" height="292" rx="24" fill="#e8ecf1" filter="url(#raised)" />
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">
+    <rect x="46" y="43" width="52" height="52" rx="16" fill="#e8ecf1" filter="url(#raisedSmall)" />
+    <circle cx="72" cy="69" r="17" fill="#e5ded4" /><text x="72" y="76" fill="#88765f" font-size="21" font-weight="750" text-anchor="middle">J</text>
+    <text x="118" y="66" fill="#253246" font-size="23" font-weight="750">Janus</text>
+    <text x="118" y="89" fill="#6b7788" font-size="13">로컬 우선 에이전트 개발 환경</text>
+    <rect x="420" y="51" width="130" height="34" rx="17" fill="#e8ecf1" filter="url(#raisedSmall)" />
+    <text x="485" y="73" fill="#88765f" font-size="12.5" font-weight="700" text-anchor="middle">1인 개발</text>
+    <text x="47" y="127" fill="#4b586b" font-size="15.5">에이전트의 작업과 변경 내용을 확인하고</text>
+    <text x="47" y="151" fill="#4b586b" font-size="15.5">검증·리뷰·커밋까지 한 흐름으로 연결합니다.</text>
+    <rect x="46" y="172" width="508" height="90" rx="18" fill="#e8ecf1" filter="url(#raisedSmall)" />
+    <rect x="62" y="187" width="4" height="58" rx="2" fill="#88765f" />
+    <text x="79" y="197" fill="#88765f" font-size="12" font-weight="700">제품 방향과 설계</text>
+    <text x="79" y="224" fill="#253246" font-size="16" font-weight="700">AI와 일하는 개발 환경을 직접 구현</text>
+    <text x="79" y="247" fill="#6b7788" font-size="13.5">Task 중심 작업 관리와 제한된 로컬 자원 배분</text>
+    <text x="47" y="294" fill="#647184" font-size="12.5" font-weight="650">Electron · React · FastAPI · SQLite · MLX</text>
+    <circle cx="548" cy="289" r="16" fill="#e5ded4" /><text x="548" y="295" fill="#88765f" font-size="17" font-weight="750" text-anchor="middle">↗</text>
+  </g>
+</svg>
