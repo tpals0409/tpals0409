@@ -1,0 +1,9 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 괄호와 축 { | } — generate-macos-icon.swift와 같은 geometry의 벡터 사본 -->
+  <rect x="32" y="32" width="960" height="960" rx="216" fill="#111214"/>
+  <g stroke="#E6E8EA" stroke-width="76">
+    <path d="M384 176 H208 V848 H384"/>
+    <path d="M640 176 H816 V848 H640"/>
+    <path d="M512 352 V672"/>
+  </g>
+</svg>
