@@ -9,8 +9,15 @@
   <rect x="19" y="19" width="562" height="292" rx="24" fill="#e8ecf1" filter="url(#raised)" />
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans KR', sans-serif">
     <rect x="46" y="43" width="52" height="52" rx="16" fill="#e8ecf1" filter="url(#raisedSmall)" />
-    <circle cx="72" cy="69" r="17" fill="#e5ded4" /><text x="72" y="76" fill="#88765f" font-size="21" font-weight="750" text-anchor="middle">J</text>
-    <text x="118" y="66" fill="#253246" font-size="23" font-weight="750">Janus</text>
+    <svg width="52" height="52" viewBox="0 0 1024 1024" fill="none" x="46" y="43">
+  
+  <rect x="32" y="32" width="960" height="960" rx="216" fill="#111214" />
+  <g stroke="#E6E8EA" stroke-width="76">
+    <path d="M384 176 H208 V848 H384" />
+    <path d="M640 176 H816 V848 H640" />
+    <path d="M512 352 V672" />
+  </g>
+</svg><text x="118" y="66" fill="#253246" font-size="23" font-weight="750">Janus</text>
     <text x="118" y="89" fill="#6b7788" font-size="13">로컬 우선 에이전트 개발 환경</text>
     <rect x="420" y="51" width="130" height="34" rx="17" fill="#e8ecf1" filter="url(#raisedSmall)" />
     <text x="485" y="73" fill="#88765f" font-size="12.5" font-weight="700" text-anchor="middle">1인 개발</text>
