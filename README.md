@@ -14,6 +14,14 @@
 
 각 카드를 선택하면 프로젝트 설명, 화면, 아키텍처와 개발 기록을 볼 수 있습니다.
 
+## 포트폴리오
+
+<a href="https://github.com/tpals0409/tpals0409/releases/latest/download/kim-semin-portfolio.pdf"><img width="49%" src="assets/portfolio-cover.jpg" alt="김세민 포트폴리오 표지" /></a>
+
+[![포트폴리오 PDF 다운로드](https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_PDF-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-315efb?style=for-the-badge)](https://github.com/tpals0409/tpals0409/releases/latest/download/kim-semin-portfolio.pdf)
+
+33장 · AlgoSu · PinLog · Janus · FINCH — 개요 · 아키텍처 · 기술 사용 이유 · 시나리오 · 트러블슈팅 · 회고 (2026.09 기준)
+
 ## AI와 일하는 방식
 
 **문제 정의 → 역할 분담 → 구현 → 검증 → 배포 → 운영에서 개선**
@@ -78,4 +86,4 @@
 - [Janus — 실험 조건과 검증 근거](https://github.com/tpals0409/Janus/blob/main/V1_AUDIT.md)
 - [PinLog Infra — 배포와 운영 설계](https://github.com/Team-PinLog/infra/blob/main/docs/architecture.md)
 
-<!-- 공개 포트폴리오 주소와 연락처가 정해지면 추가합니다. -->
+<!-- 연락처가 정해지면 추가합니다. -->
