@@ -7,7 +7,7 @@
 ## 대표 프로젝트
 
 <a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="assets/project-cards/algosu-profile.svg" alt="AlgoSu — 알고리즘 스터디 관리 서비스. 기획부터 개발·배포·운영·유지보수까지 1인 수행" /></a>
-<a href="https://github.com/tpals0409/FINCH"><img width="49%" src="assets/project-cards/finch-profile.svg" alt="FINCH — 포트폴리오 기반 AI 모의투자. 팀 프로젝트로 개발한 서비스. 계산 엔진과 AI 설명을 분리" /></a>
+<a href="https://github.com/Team-FINCH/finch-ai"><img width="49%" src="assets/project-cards/finch-profile.svg" alt="FINCH — 포트폴리오 기반 AI 모의투자. 5인 팀 프로젝트에서 AI 파트 담당. 계산 엔진과 AI 설명을 분리" /></a>
 
 <a href="https://github.com/tpals0409/Janus"><img width="49%" src="assets/project-cards/janus-profile.svg" alt="Janus — 로컬 우선 에이전트 개발 환경. Task 중심으로 작업·검증·리뷰·커밋을 연결하는 1인 개발 프로젝트" /></a>
 <a href="https://github.com/Team-PinLog/infra"><img width="49%" src="assets/project-cards/pinlog-profile.svg" alt="PinLog Infra — 팀 프로젝트의 인프라·DevOps 리드. 단일 서버의 GitOps 배포·관측·AI 운영 알림과 복구 설계" /></a>
@@ -82,7 +82,7 @@
 ## 개발 기록
 
 - [AlgoSu — 서비스 설계와 개발 기록](https://github.com/tpals0409/AlgoSu/tree/HEAD/blog/content/posts)
-- [FINCH — 스프린트별 의사결정과 회고](https://github.com/tpals0409/FINCH/tree/master/docs/adr/sprints)
+- [FINCH — AI 기능 설계와 검증](https://github.com/Team-FINCH/finch-ai/blob/master/docs/ai-feature-report.md)
 - [Janus — 실험 조건과 검증 근거](https://github.com/tpals0409/Janus/blob/main/V1_AUDIT.md)
 - [PinLog Infra — 배포와 운영 설계](https://github.com/Team-PinLog/infra/blob/main/docs/architecture.md)
 
