@@ -4,13 +4,15 @@
 
 문제를 정의하고 AI에 역할을 나누어 맡기며, 구현 결과를 검증해 실제 서비스로 연결합니다. AlgoSu는 기획부터 개발, 배포, 운영과 유지보수까지 혼자 맡고 있습니다. 서비스 개발 경험을 바탕으로 AI와 일하는 개발 도구와 운영 환경도 만들고 있습니다.
 
+[![Email](https://img.shields.io/badge/Email-tpals0409dev%40gmail.com-315efb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tpals0409dev@gmail.com)
+
 ## 대표 프로젝트
 
-<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="assets/project-cards/algosu-profile.svg" alt="AlgoSu — 알고리즘 스터디 관리 서비스. 기획부터 개발·배포·운영·유지보수까지 1인 수행" /></a>
-<a href="https://github.com/Team-FINCH/finch-ai"><img width="49%" src="assets/project-cards/finch-profile.svg" alt="FINCH — 5인 팀 프로젝트의 AI 파트 담당. 숫자를 지어내지 않는 금융 LLM 서버, 계산 엔진 수치만 인용하고 출력 가드레일 10종으로 검증" /></a>
+<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="assets/project-cards/algosu-profile.svg" alt="AlgoSu — 기획·개발·운영 (1인 개발) — 코드 제출부터 GitHub 저장과 AI 리뷰까지 연결하는 알고리즘 스터디 서비스" /></a>
+<a href="https://github.com/Team-FINCH/finch-ai"><img width="49%" src="assets/project-cards/finch-profile.svg" alt="FINCH — AI 서버 (팀 프로젝트) — 계산 엔진이 낸 수치로만 답하는 포트폴리오 기반 AI 투자 비서" /></a>
 
-<a href="https://github.com/tpals0409/Janus"><img width="49%" src="assets/project-cards/janus-profile.svg" alt="Janus — 로컬 우선 에이전트 개발 환경. Task 중심으로 작업·검증·리뷰·커밋을 연결하는 1인 개발 프로젝트" /></a>
-<a href="https://github.com/Team-PinLog/infra"><img width="49%" src="assets/project-cards/pinlog-profile.svg" alt="PinLog Infra — 팀 프로젝트의 인프라·DevOps 리드. 단일 서버의 GitOps 배포·관측·AI 운영 알림과 복구 설계" /></a>
+<a href="https://github.com/tpals0409/Janus"><img width="49%" src="assets/project-cards/janus-profile.svg" alt="Janus — 기획·개발 (1인 개발) — 외부 환경이 제한된 사내망에서도 동작하는 로컬 LLM 코딩 에이전트 IDE" /></a>
+<a href="https://github.com/Team-PinLog/infra"><img width="49%" src="assets/project-cards/pinlog-profile.svg" alt="PinLog — 인프라·DevOps 리드 (팀 프로젝트) — 장소에 담긴 경험을 기록하고 자연어로 다시 찾는 장소 아카이빙 서비스" /></a>
 
 각 카드를 선택하면 프로젝트 설명, 화면, 아키텍처와 개발 기록을 볼 수 있습니다.
 
@@ -48,12 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" title="Next.js" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" title="NestJS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot" title="Spring Boot" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/electron/electron-original.svg" width="42" height="42" alt="Electron" title="Electron" />&nbsp;
 </p>
 
-<sub>React · Next.js · NestJS · Spring Boot · FastAPI · Electron</sub>
+<sub>React · Next.js · NestJS · FastAPI · Electron</sub>
 
 ### AI·데이터
 
@@ -63,7 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite" title="SQLite" />&nbsp;
 </p>
 
-<sub>PostgreSQL · Redis · SQLite</sub>
+<sub>Claude API · OpenAI API · MLX (로컬 추론) · RAG (pgvector 하이브리드 검색) · PostgreSQL · Redis · SQLite</sub>
 
 ### 배포·운영
 
@@ -84,5 +85,3 @@
 - [FINCH — AI 기능 설계와 검증](https://github.com/Team-FINCH/finch-ai/blob/master/docs/ai-feature-report.md)
 - [Janus — 실험 조건과 검증 근거](https://github.com/tpals0409/Janus/blob/main/V1_AUDIT.md)
 - [PinLog Infra — 배포와 운영 설계](https://github.com/Team-PinLog/infra/blob/main/docs/architecture.md)
-
-<!-- 연락처가 정해지면 추가합니다. -->
