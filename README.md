@@ -38,10 +38,9 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kotlin/kotlin-original.svg" width="42" height="42" alt="Kotlin" title="Kotlin" />&nbsp;
 </p>
 
-<sub>TypeScript · Python · Kotlin</sub>
+<sub>TypeScript · Python</sub>
 
 ### 웹·백엔드·데스크톱
 
