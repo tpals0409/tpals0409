@@ -12,7 +12,6 @@
 
 [![포트폴리오 PDF 다운로드](https://img.shields.io/badge/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_PDF-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-315efb?style=for-the-badge)](https://github.com/tpals0409/tpals0409/releases/latest/download/kim-semin-portfolio.pdf)
 
-33장 · AlgoSu · PinLog · Janus · FINCH — 개요 · 아키텍처 · 기술 사용 이유 · 시나리오 · 트러블슈팅 · 회고 (2026.09 기준)
 
 ## 대표 프로젝트
 
