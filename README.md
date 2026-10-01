@@ -8,10 +8,10 @@
 
 ## 대표 프로젝트
 
-<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="assets/project-cards/algosu-profile.svg" alt="AlgoSu — 기획·개발·운영 (1인 개발) — 코드 제출부터 GitHub 저장과 AI 리뷰까지 연결하는 알고리즘 스터디 서비스" /></a>
+<a href="https://github.com/tpals0409/AlgoSu"><img width="49%" src="assets/project-cards/algosu-profile.svg" alt="AlgoSu — 기획·개발·운영 (개인 프로젝트) — 코드 제출부터 GitHub 저장과 AI 리뷰까지 연결하는 알고리즘 스터디 서비스" /></a>
 <a href="https://github.com/Team-FINCH/finch-ai"><img width="49%" src="assets/project-cards/finch-profile.svg" alt="FINCH — AI 서버 (팀 프로젝트) — 계산 엔진이 낸 수치로만 답하는 포트폴리오 기반 AI 투자 비서" /></a>
 
-<a href="https://github.com/tpals0409/Janus"><img width="49%" src="assets/project-cards/janus-profile.svg" alt="Janus — 기획·개발 (1인 개발) — 외부 환경이 제한된 사내망에서도 동작하는 로컬 LLM 코딩 에이전트 IDE" /></a>
+<a href="https://github.com/tpals0409/Janus"><img width="49%" src="assets/project-cards/janus-profile.svg" alt="Janus — 기획·개발 (개인 프로젝트) — 외부 환경이 제한된 사내망에서도 동작하는 로컬 LLM 코딩 에이전트 IDE" /></a>
 <a href="https://github.com/Team-PinLog/infra"><img width="49%" src="assets/project-cards/pinlog-profile.svg" alt="PinLog — 인프라·DevOps 리드 (팀 프로젝트) — 장소에 담긴 경험을 기록하고 자연어로 다시 찾는 장소 아카이빙 서비스" /></a>
 
 각 카드를 선택하면 프로젝트 설명, 화면, 아키텍처와 개발 기록을 볼 수 있습니다.
