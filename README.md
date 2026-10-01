@@ -38,11 +38,10 @@
 ### 언어
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />&nbsp;
 </p>
 
-<sub>TypeScript · Python</sub>
 
 ### 웹·백엔드·데스크톱
 
@@ -54,7 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/electron/electron-original.svg" width="42" height="42" alt="Electron" title="Electron" />&nbsp;
 </p>
 
-<sub>React · Next.js · NestJS · FastAPI · Electron</sub>
 
 ### AI·데이터
 
@@ -64,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" width="42" height="42" alt="SQLite" title="SQLite" />&nbsp;
 </p>
 
-<sub>Claude API · OpenAI API · MLX (로컬 추론) · RAG (pgvector 하이브리드 검색) · PostgreSQL · Redis · SQLite</sub>
 
 ### 배포·운영
 
@@ -77,7 +74,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/grafana/grafana-original.svg" width="42" height="42" alt="Grafana" title="Grafana" />&nbsp;
 </p>
 
-<sub>Docker · Kubernetes · GitHub Actions · Argo CD · Prometheus · Grafana</sub>
 
 ## 개발 기록
 
