@@ -54,7 +54,7 @@
 </p>
 
 
-### AI·데이터
+### 데이터
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
