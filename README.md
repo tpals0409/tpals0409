@@ -4,7 +4,7 @@
 
 문제를 정의하고 AI에 역할을 나누어 맡기며, 구현 결과를 검증해 실제 서비스로 연결합니다. AlgoSu는 기획부터 개발, 배포, 운영과 유지보수까지 혼자 맡고 있습니다. 서비스 개발 경험을 바탕으로 AI와 일하는 개발 도구와 운영 환경도 만들고 있습니다.
 
-[![Email](https://img.shields.io/badge/Email-tpals0409dev%40gmail.com-315efb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tpals0409dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tpalsdlapfnd%40gmail.com-315efb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tpalsdlapfnd@gmail.com)
 
 ## 대표 프로젝트
 
