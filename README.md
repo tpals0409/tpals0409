@@ -5,6 +5,7 @@
 성공 기준과 책임 범위를 먼저 정하고, AI 에이전트에는 필요한 맥락과 작업 단위를 구체적으로 맡깁니다. 설계와 우선순위, 최종 검증은 직접 책임집니다. 코드와 테스트, 실제 동작을 확인하고, 운영에서 얻은 피드백을 다음 개선에 반영합니다.
 
 [![Email](https://img.shields.io/badge/Email-tpalsdlapfnd%40gmail.com-315efb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tpalsdlapfnd@gmail.com)
+[![블로그](https://img.shields.io/badge/블로그-Leo’s_Build_Log-315efb?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.leosbuildlog.com/ko)
 
 ## 포트폴리오
 
